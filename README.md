@@ -25,6 +25,9 @@ Um aplicativo de previsão do tempo utilizando a API do OpenWeather. Permite vis
 ### [To-Do List](https://github.com/Fabrioco/to-do-list)
 Uma aplicação simples de lista de tarefas desenvolvida com React. Inclui funcionalidades como adicionar, editar e remover tarefas, com persistência de dados no localStorage.
 
+### [DevFood - Mobile](https://github.com/Fabrioco/DevFood)
+Este é um projeto de treinamento onde desenvolvi uma página de visualização de restaurantes, inspirado na interface do iFood. Utilizando React Native e Tailwind CSS, criei uma interface de usuário moderna e responsiva.
+
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabrioco&show_icons=true&theme=radical)
