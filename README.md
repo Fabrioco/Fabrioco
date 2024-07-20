@@ -9,7 +9,7 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho 
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks e Bibliotecas:** ReactJS, Tailwind CSS
 - **Ferramentas:** Git, GitHub, VS Code, Figma
-- **Outras Tecnologias:** Firebase, React Router, Zustand
+- **Outras Tecnologias:** Firebase, React Router
 
 ## Projetos Destacados
 
