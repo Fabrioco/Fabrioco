@@ -1,49 +1,56 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Olá! Eu sou Fabricio Oliveira Lopes 👋
+## Sobre Mim
+Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho experiência em ReactJS, TypeScript, Tailwind CSS e estou sempre em busca de novos desafios. Adoro aprender novas tecnologias e aplicar meus conhecimentos em projetos inovadores.
 
-###
+## Habilidades
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- **Linguagens:** HTML, CSS, JavaScript, TypeScript
+- 
+- **Frameworks e Bibliotecas:** ReactJS, Tailwind CSS
+- 
+- **Ferramentas:** Git, GitHub, VS Code, Figma
+- 
+- **Outras Tecnologias:** Firebase, React Router, Zustand
+- 
+- **Outras Tecnologias:** Firebase, React Router
 
-###
+## Projetos Destacados
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### [Prime Flix](https://github.com/Fabrioco/Prime-Flix)
+Uma aplicação de lista de filmes utilizando API para mostrar filmes que estão em alta, suas avaliações e permitir salvar.
 
-###
+### [Loja Online](https://github.com/Fabrioco/Loja)
+Um sistema de loja online desenvolvido com TypeScript e ReactJS. Este projeto permite ao administrador gerenciar produtos e aos usuários fazer compras.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### [Weather App](https://github.com/Fabrioco/weather-app)
+Um aplicativo de previsão do tempo utilizando a API do OpenWeather. Permite visualizar informações como temperatura, umidade, visibilidade e velocidade do vento com base no nome da cidade.
 
-###
+### [To-Do List](https://github.com/Fabrioco/to-do-list)
+Uma aplicação simples de lista de tarefas desenvolvida com React. Inclui funcionalidades como adicionar, editar e remover tarefas, com persistência de dados no localStorage.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### [DevFood - Mobile](https://github.com/Fabrioco/DevFood)
+Este é um projeto de treinamento onde desenvolvi uma página de visualização de restaurantes, inspirado na interface do iFood. Utilizando React Native e Tailwind CSS, criei uma interface de usuário moderna e responsiva.
 
-###
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabrioco&show_icons=true&theme=radical)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## Contato
+- [LinkedIn](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
+- 
+- [GitHub](https://github.com/Fabrioco)
+- 
+- Email: Fabriciooliveiralopes50@gmail.com
+- 
+## Curiosidades
 
-###
+- 🌱 Atualmente estou aprendendo React Native.
+  
+- 🚀 Amo participar de hackathons e projetos open-source.
+  
+- 💬 Pergunte-me sobre React, TypeScript, ou qualquer coisa relacionada a desenvolvimento front-end.
+
+  
+## Obrigado por visitar meu perfil!
+
+Espero que você goste dos meus projetos. Sinta-se à vontade para explorar, fazer forks e contribuir! Se você quiser discutir qualquer coisa relacionada a programação ou colaboração em projetos, não hesite em entrar em contato.
