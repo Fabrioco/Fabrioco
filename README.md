@@ -5,13 +5,9 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho 
 ## Habilidades
 
 - **Linguagens:** HTML, CSS, JavaScript, TypeScript
-- 
 - **Frameworks e Bibliotecas:** ReactJS, Tailwind CSS
-- 
 - **Ferramentas:** Git, GitHub, VS Code, Figma
-- 
 - **Outras Tecnologias:** Firebase, React Router, Zustand
-- 
 - **Outras Tecnologias:** Firebase, React Router
 
 ## Projetos Destacados
@@ -37,11 +33,11 @@ Este é um projeto de treinamento onde desenvolvi uma página de visualização 
 
 ## Contato
 - [LinkedIn](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
-- 
+
 - [GitHub](https://github.com/Fabrioco)
-- 
+
 - Email: Fabriciooliveiralopes50@gmail.com
-- 
+
 ## Curiosidades
 
 - 🌱 Atualmente estou aprendendo React Native.
