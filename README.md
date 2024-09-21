@@ -12,7 +12,7 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho 
 
 ## Projetos Destacados
 
-### [Site Barbeiro](https://site-barbearia-gray.vercel.app/)
+### [Site Barbeiro](https://github.com/Fabrioco/Site-Barbearia)
 Uma aplicação para agendar horários em uma barbearia.
 
 ### [Prime Flix](https://github.com/Fabrioco/Prime-Flix)
