@@ -11,6 +11,9 @@ Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho 
 
 ## Projetos Destacados
 
+### [Plataforma de Curso](https://github.com/Fabrioco/hotmart)
+Uma aplicação para venda de cursos, para qualquer tipo de curso, desenvolvido com front-end e back-end.
+
 ### [Site Barbeiro](https://github.com/Fabrioco/Site-Barbearia)
 Uma aplicação para agendar horários em uma barbearia.
 
@@ -22,9 +25,6 @@ Um sistema de loja online desenvolvido com TypeScript e ReactJS. Este projeto pe
 
 ### [Weather App](https://github.com/Fabrioco/weather-app)
 Um aplicativo de previsão do tempo utilizando a API do OpenWeather. Permite visualizar informações como temperatura, umidade, visibilidade e velocidade do vento com base no nome da cidade.
-
-### [To-Do List](https://github.com/Fabrioco/to-do-list)
-Uma aplicação simples de lista de tarefas desenvolvida com React. Inclui funcionalidades como adicionar, editar e remover tarefas, com persistência de dados no localStorage.
 
 ### [DevFood - Mobile](https://github.com/Fabrioco/DevFood)
 Este é um projeto de treinamento onde desenvolvi uma página de visualização de restaurantes, inspirado na interface do iFood. Utilizando React Native e Tailwind CSS, criei uma interface de usuário moderna e responsiva.
