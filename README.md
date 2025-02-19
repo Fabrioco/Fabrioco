@@ -1,6 +1,6 @@
 # Olá! Eu sou Fabricio Oliveira Lopes 👋
 ## Sobre Mim
-Sou um desenvolvedor front-end apaixonado por tecnologia e programação. Tenho experiência em ReactJS, TypeScript, Tailwind CSS e estou sempre em busca de novos desafios. Adoro aprender novas tecnologias e aplicar meus conhecimentos em projetos inovadores.
+Sou um desenvolvedor full stack apaixonado por tecnologia e programação. Tenho experiência em ReactJS, Next.js, Node.js e PostgreSQL, além de um forte domínio em TypeScript e Tailwind CSS. Estou sempre em busca de novos desafios, aprendendo novas tecnologias e aplicando meus conhecimentos em projetos inovadores.
 
 ## Habilidades
 
