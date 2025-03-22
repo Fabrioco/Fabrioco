@@ -1,54 +1,64 @@
-# Olá! Eu sou Fabricio Oliveira Lopes 👋
-## Sobre Mim
-Sou um desenvolvedor full stack apaixonado por tecnologia e programação. Tenho experiência em ReactJS, Next.js, Node.js e PostgreSQL, além de um forte domínio em TypeScript e Tailwind CSS. Estou sempre em busca de novos desafios, aprendendo novas tecnologias e aplicando meus conhecimentos em projetos inovadores.
+# Olá, eu sou Fabrício Oliveira Lopes! 👋
 
-## Habilidades
+Desenvolvedor(a) Full Stack com experiência em construção de aplicações web modernas e responsivas. Apaixonado(a) por tecnologia e sempre em busca de aprender e aprimorar minhas habilidades.
 
-- **Linguagens:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks e Bibliotecas:** ReactJS, Tailwind CSS
-- **Ferramentas:** Git, GitHub, VS Code, Figma
-- **Outras Tecnologias:** Firebase, React Router, Zustand
+---
 
-## Projetos Destacados
+## 🛠️ Tecnologias e Ferramentas
 
-### [Plataforma de Curso](https://github.com/Fabrioco/hotmart)
-Uma aplicação para venda de cursos, para qualquer tipo de curso, desenvolvido com front-end e back-end.
+### **Linguagens:**
+- HTML
+- CSS
+- JavaScript
+- TypeScript
 
-### [Site Barbeiro](https://github.com/Fabrioco/Site-Barbearia)
-Uma aplicação para agendar horários em uma barbearia.
+### **Frameworks e Bibliotecas:**
+- **Frontend:** ReactJS, NextJs
+- **Backend:** Express (Node.js)
+- **CSS:** Tailwind CSS
+- **Routing:** React Router
 
-### [Prime Flix](https://github.com/Fabrioco/Prime-Flix)
-Uma aplicação de lista de filmes utilizando API para mostrar filmes que estão em alta, suas avaliações e permitir salvar.
+### **Banco de Dados:**
+- **ORM:** Sequelize
+- **SGBD:** PostgreSQL
 
-### [Loja Online](https://github.com/Fabrioco/Loja)
-Um sistema de loja online desenvolvido com TypeScript e ReactJS. Este projeto permite ao administrador gerenciar produtos e aos usuários fazer compras.
+### **Ferramentas:**
+- **Versionamento:** Git, GitHub
+- **Editor de Código:** VS Code
+- **Design e Prototipagem:** Figma
 
-### [Weather App](https://github.com/Fabrioco/weather-app)
-Um aplicativo de previsão do tempo utilizando a API do OpenWeather. Permite visualizar informações como temperatura, umidade, visibilidade e velocidade do vento com base no nome da cidade.
+### **Outras Tecnologias:**
+- **Backend as a Service (BaaS):** Firebase
+- **Runtime:** Node.js
 
-### [DevFood - Mobile](https://github.com/Fabrioco/DevFood)
-Este é um projeto de treinamento onde desenvolvi uma página de visualização de restaurantes, inspirado na interface do iFood. Utilizando React Native e Tailwind CSS, criei uma interface de usuário moderna e responsiva.
+---
+
+## 🌐 Projetos Destacados
+
+### [Clone Udemy](https://github.com/Fabrioco/hotmart)
+- **Descrição:** Este projeto consiste em vendas de de videos, o dono faz upload dos videos e coloca seu preço.
+- **Tecnologias:** ReactJS, TypeScript, Tailwind CSS, Firebase, NodeJs, Stripe.
+
+### [Projeto Escola](https://github.com/Fabrioco/Projeto-Escola)
+- **Descrição:** Um sistema onde alunos, professores e coordenadores tem seus acessos e suas função, alunos veem suas notas, professores dão as notas e coordenadores tem resposabilidade de todo o sistema.
+- **Tecnologias:** NextJs, TypeScript, TailwindCSS, NodeJs, Express, Sequelize e PostgreSQL.
+
+---
+
+## 📫 Como me encontrar
+
+- [**LinkedIn:**](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
+- **E-mail:** Fabriciooliveiralopes50@gmail.com
+- [**Portfólio:**](https://portfolio-full-stack-yj8l.vercel.app/)
+
+---
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabrioco&show_icons=true&theme=radical)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrioco&layout=compact&theme=dark)
 
-## Contato
-- [LinkedIn](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
+---
 
-- [GitHub](https://github.com/Fabrioco)
+Feito com ❤️ por [Fabrício Oliveira Lopes](https://github.com/Fabrioco)
 
-- Email: Fabriciooliveiralopes50@gmail.com
-
-## Curiosidades
-
-- 🌱 Atualmente estou aprendendo React Native.
-  
-- 🚀 Amo participar de hackathons e projetos open-source.
-  
-- 💬 Pergunte-me sobre React, TypeScript, ou qualquer coisa relacionada a desenvolvimento front-end.
-
-  
-## Obrigado por visitar meu perfil!
-
-Espero que você goste dos meus projetos. Sinta-se à vontade para explorar, fazer forks e contribuir! Se você quiser discutir qualquer coisa relacionada a programação ou colaboração em projetos, não hesite em entrar em contato.
