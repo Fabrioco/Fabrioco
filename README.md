@@ -1,6 +1,6 @@
 # Olá, eu sou Fabrício Oliveira Lopes! 👋
 
-Desenvolvedor(a) Full Stack com experiência em construção de aplicações web modernas e responsivas. Apaixonado(a) por tecnologia e sempre em busca de aprender e aprimorar minhas habilidades.
+Desenvolvedor Full Stack com experiência em construção de aplicações web modernas e responsivas. Apaixonado(a) por tecnologia e sempre em busca de aprender e aprimorar minhas habilidades.
 
 ---
 
@@ -47,9 +47,9 @@ Desenvolvedor(a) Full Stack com experiência em construção de aplicações web
 
 ## 📫 Como me encontrar
 
-- [**LinkedIn:**](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
+- [**LinkedIn**](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
 - **E-mail:** Fabriciooliveiralopes50@gmail.com
-- [**Portfólio:**](https://portfolio-full-stack-yj8l.vercel.app/)
+- [**Portfólio**](https://portfolio-full-stack-yj8l.vercel.app/)
 
 ---
 
