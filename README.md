@@ -47,7 +47,7 @@ Desenvolvedor Full Stack com experiência em construção de aplicações web mo
 
 ## 📫 Como me encontrar
 
-- [**LinkedIn**](www.linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
+- [**LinkedIn**](https://linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
 - **E-mail:** Fabriciooliveiralopes50@gmail.com
 - [**Portfólio**](https://portfolio-full-stack-yj8l.vercel.app/)
 
