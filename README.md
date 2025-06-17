@@ -14,12 +14,12 @@ Desenvolvedor Full Stack com experiência em construção de aplicações web mo
 
 ### **Frameworks e Bibliotecas:**
 - **Frontend:** ReactJS, NextJs
-- **Backend:** Express (Node.js)
+- **Backend:** Express (Node.js), NestJs
 - **CSS:** Tailwind CSS
 - **Routing:** React Router
 
 ### **Banco de Dados:**
-- **ORM:** Sequelize
+- **ORM:** Sequelize, TypeOrm, Prisma
 - **SGBD:** PostgreSQL
 
 ### **Ferramentas:**
@@ -39,9 +39,10 @@ Desenvolvedor Full Stack com experiência em construção de aplicações web mo
 - **Descrição:** Este projeto consiste em vendas de de videos, o dono faz upload dos videos e coloca seu preço.
 - **Tecnologias:** ReactJS, TypeScript, Tailwind CSS, Firebase, NodeJs, Stripe.
 
-### [Projeto Escola](https://github.com/Fabrioco/Projeto-Escola)
-- **Descrição:** Um sistema onde alunos, professores e coordenadores tem seus acessos e suas função, alunos veem suas notas, professores dão as notas e coordenadores tem resposabilidade de todo o sistema.
-- **Tecnologias:** NextJs, TypeScript, TailwindCSS, NodeJs, Express, Sequelize e PostgreSQL.
+### [Snap Cart - E-commerce](https://github.com/Fabrioco/Snap-Cart)
+- **Descrição:** Um sistema completo de e-commerce onde administradores podem gerenciar os produtos e usuários podem visualizar e realizar compras. O projeto oferece uma experiência fluida tanto para o usuário final quanto para o administrador.
+
+- **Tecnologias:** NextJs, TypeScript, Tailwind CSS, Zustand, NodeJs(express), Prisma, Zod, JWT, Bcrypt, PostgreSQL.
 
 ---
 
