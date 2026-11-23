@@ -1,65 +1,74 @@
-# Olá, eu sou Fabrício Oliveira Lopes! 👋
+# Fabrício Oliveira Lopes
 
-Desenvolvedor Full Stack com experiência em construção de aplicações web modernas e responsivas. Apaixonado(a) por tecnologia e sempre em busca de aprender e aprimorar minhas habilidades.
+**Desenvolvedor Full-Stack** | Transformo processos manuais em sistemas digitais.
 
----
+Construo sistemas web, SaaS multi-tenant e painéis administrativos que organizam operações, reduzem trabalho manual e preparam negócios para crescer. Do banco de dados à interface, com foco em produto e em código organizado.
 
-## 🛠️ Tecnologias e Ferramentas
+Aberto a vagas full-stack e a projetos freelance.
 
-### **Linguagens:**
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
-### **Frameworks e Bibliotecas:**
-- **Frontend:** ReactJS, NextJs
-- **Backend:** Express (Node.js), NestJs
-- **CSS:** Tailwind CSS
-- **Routing:** React Router
-
-### **Banco de Dados:**
-- **ORM:** Sequelize, TypeOrm, Prisma
-- **SGBD:** PostgreSQL
-
-### **Ferramentas:**
-- **Versionamento:** Git, GitHub
-- **Editor de Código:** VS Code
-- **Design e Prototipagem:** Figma
-
-### **Outras Tecnologias:**
-- **Backend as a Service (BaaS):** Firebase
-- **Runtime:** Node.js
+[Portfólio](https://portfolio-fabricio-lopes.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fabr%C3%ADcio-oliveira-lopes-b713892bb) · [E-mail](mailto:Fabriciooliveiralopes50@gmail.com)
 
 ---
 
-## 🌐 Projetos Destacados
+## O que eu construo
 
-### [Clone Udemy](https://github.com/Fabrioco/hotmart)
-- **Descrição:** Este projeto consiste em vendas de de videos, o dono faz upload dos videos e coloca seu preço.
-- **Tecnologias:** ReactJS, TypeScript, Tailwind CSS, Firebase, NodeJs, Stripe.
-
-### [Snap Cart - E-commerce](https://github.com/Fabrioco/Snap-Cart)
-- **Descrição:** Um sistema completo de e-commerce onde administradores podem gerenciar os produtos e usuários podem visualizar e realizar compras. O projeto oferece uma experiência fluida tanto para o usuário final quanto para o administrador.
-
-- **Tecnologias:** NextJs, TypeScript, Tailwind CSS, Zustand, NodeJs(express), Prisma, Zod, JWT, Bcrypt, PostgreSQL.
+- Sistemas web sob medida
+- SaaS multi-tenant, com dados e permissões isolados por empresa
+- Painéis administrativos
+- APIs e integrações
+- Funcionalidades em tempo real (WebSockets, filas)
 
 ---
 
-## 📫 Como me encontrar
+## Projetos em destaque
 
-- [**LinkedIn**](https://linkedin.com/in/fabrício-oliveira-lopes-b713892bb)
-- **E-mail:** Fabriciooliveiralopes50@gmail.com
-- [**Portfólio**](https://portfolio-full-stack-yj8l.vercel.app/)
+### [ServiceFlow](https://portfolio-fabricio-lopes.vercel.app/projetos/serviceflow)
+SaaS multi-tenant de gestão de serviços. Centraliza ordens de serviço, clientes, equipes e permissões, substituindo planilhas, papel e WhatsApp.
+
+`Next.js` `NestJS` `PostgreSQL` `JWT` `Expo`
+
+### [TheOrderFlow](https://portfolio-fabricio-lopes.vercel.app/projetos/theorderflow)
+Painel de pedidos em tempo real, com kanban de status e cardápio digital próprio para cada lanchonete.
+
+`React` `TypeScript` `Node.js` `WebSockets` `PostgreSQL` `Docker`
 
 ---
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabrioco&show_icons=true&theme=radical)
+## Stack
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabrioco&layout=compact&theme=dark)
+**Front-end**
+
+![TypeScript](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind)
+
+**Back-end**
+
+![Back-end](https://skillicons.dev/icons?i=nodejs,nestjs,express)
+
+**Dados**
+
+![Dados](https://skillicons.dev/icons?i=postgres,prisma,redis,supabase)
+
+**Entrega e ferramentas**
+
+![Ferramentas](https://skillicons.dev/icons?i=docker,git,github,vercel,figma)
+
+Também trabalho com React Native e Expo para apps mobile.
 
 ---
 
-Feito com ❤️ por [Fabrício Oliveira Lopes](https://github.com/Fabrioco)
+## Mais projetos
 
+- **[Snap Cart](https://github.com/Fabrioco/Snap-Cart)**: e-commerce completo, com painel para o administrador gerenciar produtos e experiência de compra para o usuário. Next.js, TypeScript, Tailwind CSS, Zustand, Express, Prisma, Zod, JWT, PostgreSQL.
+- **[Clone Udemy](https://github.com/Fabrioco/hotmart)**: plataforma de venda de vídeo-aulas, onde o dono faz upload dos vídeos e define o preço. React, TypeScript, Tailwind CSS, Firebase, Node.js, Stripe.
+
+---
+
+## Contato
+
+- [Portfólio](https://portfolio-fabricio-lopes.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/fabr%C3%ADcio-oliveira-lopes-b713892bb)
+- Fabriciooliveiralopes50@gmail.com
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fabrioco&show_icons=true&theme=tokyonight&hide_border=true)
